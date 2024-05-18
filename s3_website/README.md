@@ -13,14 +13,12 @@ Pulumi uses the access key of a specific user. To get the script running, assign
 
 Execute the following base commands. 
 
-````shell
-
+```shell
 yarn install 
 
 pulumi preview
 
 pulumi up
-
 ```
 
 The preview is optional, but helps to identify initial problems.

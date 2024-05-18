@@ -1,0 +1,5 @@
+config:
+  aws:region: eu-central-1
+  ecs_backstage:containerPort: "80"
+  ecs_backstage:cpu: "512"
+  ecs_backstage:memory: "128"
